@@ -1,3 +1,3 @@
-const { getNHImaterial } = require("./getNHImaterial");
+const { getNHImaterial } = require("./tasks/getNHImaterial");
 
 getNHImaterial();
